@@ -1,0 +1,528 @@
+﻿[
+	{
+		"itemType": "Canvas",
+		"type":  "Color",
+		"title": "gen_color",
+		"details": [
+	
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#000000"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#ffffff"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#feffdf"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#fdffab"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#fff9af"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#f9ff21"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#ffd933"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#ffbd39"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#ff8000"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#f05a28"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#f12d2d"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#ff0000"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#defcfc"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#a6e3e9"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#7efaff"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#53cde2"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#26baee"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#2470a0"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#235784"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#1b3764"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#4a0e5c"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#5e227f"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#a8026f"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#d22780"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#ff5da2"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#fa67ab"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#f48fb1"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#f9a1bc"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#c7f2e3"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#9ed9c5"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#73dbc4"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#1abb9c"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#219897"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#155e63"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#00454a"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#003545"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#28544b"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#227066"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#4a772f"
+			},
+			{
+				"detail_type": "Color",
+				"itemType": "Canvas",
+				"fill_color": "#7cbd1e"
+			}
+		]
+	},
+	{
+		"itemType": "Canvas",
+		"title": "effect_color_gradient",
+		"details": [
+		
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#002092",
+					"gradient_stop_2": "#1AB9C8"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#F75070",
+					"gradient_stop_2": "#FFE194"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#2B0096",
+					"gradient_stop_2": "#E9649B"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#5A63D8",
+					"gradient_stop_2": "#CD90E1"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FDE869",
+					"gradient_stop_2": "#00B1C1"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FECF60",
+					"gradient_stop_2": "#974EF6"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FFD529",
+					"gradient_stop_2": "#FD8440"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#C24078",
+					"gradient_stop_2": "#FFC3B9"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#00EAF8",
+					"gradient_stop_2": "#6D42EF"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FF90D3",
+					"gradient_stop_2": "#3AEF3C"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FFCD2C",
+					"gradient_stop_2": "#FF0663"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FC1E50",
+					"gradient_stop_2": "#D2B0EF"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#EF14C5",
+					"gradient_stop_2": "#FFC160"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#7AE4FF",
+					"gradient_stop_2": "#FC2F5D"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#6CF6DA",
+					"gradient_stop_2": "#176DA0"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FF0467",
+					"gradient_stop_2": "#FC7437"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FD8041",
+					"gradient_stop_2": "#FF4CA1"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#FEB984",
+					"gradient_stop_2": "#FF5542"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#00FAC1",
+					"gradient_stop_2": "#C500E1"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#6FFF00",
+					"gradient_stop_2": "#005BFF"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#F8A2ED",
+					"gradient_stop_2": "#934EAE"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#5F86EC",
+					"gradient_stop_2": "#7C4CB0"
+				}
+			},
+			{
+				"detail_type": "Gradient",
+				"itemType": "Canvas",
+				"gradient_props": {
+					"gradient_stop_1": "#EB4B92",
+					"gradient_stop_2": "#CA76E3"
+				}
+			}
+		]
+	},
+	{
+		"itemType": "Canvas",
+		"title": "win_pattern",
+		"details": [
+		
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_1.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_1.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_2.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_2.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_3.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_3.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_4.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_4.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_5.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_5.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_6.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_6.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_7.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_7.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_8.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_8.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_9.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_9.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_10.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_10.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_11.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_11.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_12.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_12.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_13.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_13.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_14.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_14.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_15.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_15.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_16.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_16.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_17.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_17.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_18.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_18.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_19.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_19.jpg"
+			},
+			{
+				"detail_type": "Pattern",
+				"itemType": "Canvas",
+				"icon_url": "http://pastatic.picsart.com/backgrounds_ver7/icons/i_bg_20.jpg",
+				"resource_url": "http://pastatic.picsart.com/backgrounds_ver7/2048/bg_20.jpg"
+			}
+		]
+	}
+]

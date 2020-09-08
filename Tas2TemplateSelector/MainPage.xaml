@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="Tas2TemplateSelector.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Tas2TemplateSelector"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+
+        <DataTemplate x:Key="ColorDateTemlate" x:DataType="local:Color">
+            <GridView >
+                <StackPanel>
+                    <TextBlock Text="Color" Foreground="{x:Bind fill_color}" Width="100" Height="100"/>
+                </StackPanel>
+            </GridView>
+        </DataTemplate>
+        <DataTemplate x:Key="ImageDataTemplate" x:DataType="local:Icon">
+            <GridView >
+                <Image Source="{x:Bind icon_url,Mode=OneWay}" Width="100" Height="100"/>
+               
+            </GridView>
+        </DataTemplate>
+        <DataTemplate  x:Key="GradientDataTemplate" x:DataType="local:Gradient_Props">
+            <GridView >
+                <TextBlock Foreground="{x:Bind gradient_stop_1}" Text="Gradient1#" Width="100" Height="100"/>
+                <TextBlock Foreground="{x:Bind gradient_stop_2}" Text="Gradient2" Width="100" Height="100"/>
+            </GridView>
+        </DataTemplate>
+        <local:MyDataTemplateSelector x:Key="MyDataTemplateSelector"
+        ColorTemplate="{StaticResource ColorDateTemlate}"
+        IconTemplate="{StaticResource ImageDataTemplate}"
+        GradientTemplate="{StaticResource GradientDataTemplate}">
+        </local:MyDataTemplateSelector>
+    </Page.Resources>
+    <Grid>
+        <ListView/>
+        <ListView   
+    x:Name="itemGridView"
+    Padding="116,137,40,46"      
+    ItemTemplateSelector="{StaticResource MyDataTemplateSelector}" />
+        <!--<ListBox Name="dataListBox" SelectionChanged="dataListBox_SelectionChanged" >
+            <ListBoxItem Name="ColorItem" Content="Color"/>
+            <ListBoxItem Name="GradientItem" Content="Gradient"/>
+            <ListBoxItem Name="IconItem" Content="Icon"/>
+        </ListBox>-->
+    </Grid>
+</Page>
